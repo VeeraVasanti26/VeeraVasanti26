@@ -1,16 +1,105 @@
-## Hi there 👋
+👋 Hi, I’m Vasanti Goli
 
-<!--
-**VeeraVasanti26/VeeraVasanti26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech CSE student (2026 batch) at VR Siddhartha Engineering College
+💻 Aspiring Software Engineer | Web Developer | ML Enthusiast
+📍 India
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building real-world software applications
+
+Strong foundation in DSA, Web Development, and Machine Learning
+
+Actively preparing for product-based / FAANG-level roles
+
+Love learning, collaborating, and shipping clean, scalable code
+
+🛠️ Tech Stack
+
+Languages:
+C Python Java JavaScript
+
+Web:
+HTML CSS React.js Node.js
+
+Databases:
+MySQL MongoDB
+
+Tools & Platforms:
+Git GitHub Power BI Google Colab Figma VS Code
+
+Interests:
+Machine Learning • Full-Stack Development • Problem Solving
+
+📌 Featured Projects
+
+🔹 AI Chatbot for SAHE University
+
+Built using Rasa NLU + RAG (FAISS) + LLaMA
+
+Three-tier architecture for intent detection, retrieval, and fallback generation
+Tech: Python
+🔗 Private / Academic Project
+
+🔹 English → Sanskrit Translator (Seq2Seq + Attention)
+
+Character-level Bidirectional LSTM with attention
+
+Real-time interactive translation interface
+Tech: Python
+
+🔹 Tic Tac Toe Game
+
+Interactive React-based game with clean UI
+🔗 https://github.com/VeeraVasanti26/Tic-Tac-Toe
+
+Tech: React, JavaScript
+
+🔹 Music Player (Spotify-Inspired)
+
+Responsive UI with playlist & audio controls
+🔗 https://github.com/VeeraVasanti26/Music-Player
+
+Tech: HTML, CSS, JavaScript
+
+🔹 To-Do List App
+
+Dynamic task CRUD functionality
+🔗 https://github.com/VeeraVasanti26/TodoList
+
+Tech: React, JavaScript
+
+🔹 Calculator App
+
+Real-time evaluation with persistent state
+🔗 https://github.com/VeeraVasanti26/Calculator
+
+Tech: React
+
+🏆 Achievements
+
+🥈 2nd Prize – FEMTECH Competition
+
+🎓 Academic Rank Holder (SSC & Intermediate)
+
+💰 North South Foundation Scholar
+
+📊 AP EAMCET Rank: 5291 / 2.8L students
+
+🤝 Leadership & Volunteering
+
+AI Hackathon 2025 Volunteer – Led 450+ participants
+
+NSS Volunteer – 10+ social impact events
+
+Little Hands Organization – Community service
+
+🌐 Profiles
+
+🔗 LinkedIn: https://www.linkedin.com/in/vasanti-goli-348658259
+
+💻 Portfolio: https://portfolio-xi-seven-81.vercel.app
+
+🧠 LeetCode: https://leetcode.com/u/veera2608
+
+📫 Email: vasantigoli2005@gmail.com
