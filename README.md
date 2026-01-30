@@ -75,7 +75,7 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
 
 - Built a three-tier conversational system for handling academic queries.  
 - Semantic search + intent classification + fallback generation  
-🔒 *Private / Academic Project*
+ https://github.com/VeeraVasanti26/Tic-Tac-Toe
 
 ---
 
@@ -190,7 +190,6 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
 ## 🏆 Achievements
 - 🥈 2nd Prize — FEMTECH Competition  
 - 🎓 Academic Rank Holder (SSC & Intermediate)  
-- 💰 North South Foundation Scholar  
 - 📊 AP EAMCET Rank: **5291 / 2.8L**
 
 ---
