@@ -86,7 +86,7 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
   <img src="https://img.shields.io/badge/Attention_Model-6A1B9A?style=for-the-badge"/>
 </p>
  
- -Implemented a BiLSTM Seq2Seq model with Bahdanau Attention for Sanskrit translation.
+ - Implemented a BiLSTM Seq2Seq model with Bahdanau Attention for Sanskrit translation.
  – Attained 99.60% validation accuracy and a BLEU score of 0.68 on test corpora.
  – Applied optimized tokenization and hyperparameter tuning, improving translation fluency.
 
