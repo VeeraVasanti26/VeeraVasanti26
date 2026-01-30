@@ -86,8 +86,9 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
   <img src="https://img.shields.io/badge/Attention_Model-6A1B9A?style=for-the-badge"/>
 </p>
  
-- Character-level Seq2Seq model with attention  
-- Real-time interactive translation interface
+ -Implemented a BiLSTM Seq2Seq model with Bahdanau Attention for Sanskrit translation.
+ – Attained 99.60% validation accuracy and a BLEU score of 0.68 on test corpora.
+ – Applied optimized tokenization and hyperparameter tuning, improving translation fluency.
 
 ---
 
@@ -97,7 +98,8 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
  
-- Interactive two-player game with clean UI  
+- Two-player interactive game with **dynamic board UI**  
+- Winner is determined in **rows, columns, or diagonals**  
 🔗 https://github.com/VeeraVasanti26/Tic-Tac-Toe
 
 ---
@@ -109,7 +111,8 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
  
-- Responsive UI with playlists & audio controls  
+- Responsive music player UI  
+- Playlist management and custom audio controls  
 🔗 https://github.com/VeeraVasanti26/Music-Player
 
 ---
@@ -120,7 +123,8 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
  
-- CRUD functionality for tasks  
+- Dynamic task management with **add/update/delete features**  
+- Fully interactive, front-end state management  
 🔗 https://github.com/VeeraVasanti26/TodoList
 
 ---
@@ -131,7 +135,7 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-- Realtime calculations with persistent state  
+- Real-time evaluation calculator with **persistent state using localStorage**  
 🔗 https://github.com/VeeraVasanti26/Calculator
 
 
