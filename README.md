@@ -66,7 +66,13 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
 ## 🚀 Featured Projects
 
 ### 🔹 AI Chatbot for SAHE University  
-**Python • Rasa NLU • FAISS • LLaMA**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLaMA-0A0A0A?style=for-the-badge&logo=meta&logoColor=white"/>
+</p>
+
 - Built a three-tier conversational system for handling academic queries.  
 - Semantic search + intent classification + fallback generation  
 🔒 *Private / Academic Project*
