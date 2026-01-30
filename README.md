@@ -80,35 +80,57 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
 ---
 
 ### 🔹 English → Sanskrit Translator  
-**Python • BiLSTM • Attention**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BiLSTM-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Attention_Model-6A1B9A?style=for-the-badge"/>
+</p>
+ 
 - Character-level Seq2Seq model with attention  
 - Real-time interactive translation interface
 
 ---
 
 ### 🔹 Tic Tac Toe Game  
-**React • JavaScript**  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+ 
 - Interactive two-player game with clean UI  
 🔗 https://github.com/VeeraVasanti26/Tic-Tac-Toe
 
 ---
 
 ### 🔹 Music Player (Spotify Inspired)  
-**HTML • CSS • JavaScript**  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+ 
 - Responsive UI with playlists & audio controls  
 🔗 https://github.com/VeeraVasanti26/Music-Player
 
 ---
 
 ### 🔹 To-Do List App  
-**React • JavaScript**  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+ 
 - CRUD functionality for tasks  
 🔗 https://github.com/VeeraVasanti26/TodoList
 
 ---
 
 ### 🔹 Calculator App  
-**React • JavaScript**  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
 - Realtime calculations with persistent state  
 🔗 https://github.com/VeeraVasanti26/Calculator
 
