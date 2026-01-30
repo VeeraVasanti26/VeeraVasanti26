@@ -134,7 +134,56 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
 - Realtime calculations with persistent state  
 🔗 https://github.com/VeeraVasanti26/Calculator
 
+
 ---
+
+## 💼 Internships
+
+### 🔹 AI Intern  
+**Infosys Springboard** | *Remote*  
+📅 **Oct 2025 – Dec 2025**
+- Designed and implemented AI-driven workflows for **SwiftVisa**
+- Automated visa eligibility assessment using rule-based + ML techniques
+- Covered **100+ visa scenarios**
+- Reduced manual intervention by **50%**
+- Improved processing speed by **40%**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-FF5733?style=for-the-badge"/>
+</p>
+
+---
+
+### 🔹 Intelligent Automation Virtual Intern  
+**EduSkills**  
+📅 **Jul 2023 – Oct 2023**
+- Built scalable RPA workflows using **Blue Prism**
+- Automated repetitive tasks improving efficiency by **30–40%**
+- Implemented exception handling & end-to-end testing
+- Achieved **99% bot execution accuracy**
+
+<p>
+  <img src="https://img.shields.io/badge/Blue_Prism-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RPA-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-FF5733?style=for-the-badge"/>
+</p>
+
+---
+
+## 📜 Certifications
+- ✅ **Complete Responsive Web Development: 4 Courses in 1** – Udemy (Jul 2024)
+- ✅ **Introduction to Data Science** – edX (2024)
+- ✅ **Foundations of R** – NPTEL (2024)
+- ✅ **Generative AI** – Learn4Good (2024)
+- ✅ **Programming Essentials in Python** – Cisco Networking Academy (May 2023)
+- ✅ **Cybersecurity and Privacy** – NPTEL (2023)
+- ✅ **Linux Essentials** – Cisco Networking Academy (2023)
+- ✅ **LeetCode 50-Day & 100-Day Challenge** – LeetCode (2024)
+
+---
+
 
 ## 🏆 Achievements
 - 🥈 2nd Prize — FEMTECH Competition  
