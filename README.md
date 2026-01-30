@@ -140,8 +140,7 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
 ## 💼 Internships
 
 ### 🔹 AI Intern  
-**Infosys Springboard** | *Remote*  
-📅 **Oct 2025 – Dec 2025**
+**Infosys Springboard** 
 - Designed and implemented AI-driven workflows for **SwiftVisa**
 - Automated visa eligibility assessment using rule-based + ML techniques
 - Covered **100+ visa scenarios**
@@ -158,7 +157,6 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
 
 ### 🔹 Intelligent Automation Virtual Intern  
 **EduSkills**  
-📅 **Jul 2023 – Oct 2023**
 - Built scalable RPA workflows using **Blue Prism**
 - Automated repetitive tasks improving efficiency by **30–40%**
 - Implemented exception handling & end-to-end testing
@@ -173,14 +171,14 @@ Skilled with modern technologies and frameworks, I enjoy solving challenging pro
 ---
 
 ## 📜 Certifications
-- ✅ **Complete Responsive Web Development: 4 Courses in 1** – Udemy (Jul 2024)
-- ✅ **Introduction to Data Science** – edX (2024)
-- ✅ **Foundations of R** – NPTEL (2024)
-- ✅ **Generative AI** – Learn4Good (2024)
-- ✅ **Programming Essentials in Python** – Cisco Networking Academy (May 2023)
-- ✅ **Cybersecurity and Privacy** – NPTEL (2023)
-- ✅ **Linux Essentials** – Cisco Networking Academy (2023)
-- ✅ **LeetCode 50-Day & 100-Day Challenge** – LeetCode (2024)
+- ✅ **Complete Responsive Web Development: 4 Courses in 1** – Udemy
+- ✅ **Introduction to Data Science** – edX 
+- ✅ **Foundations of R** – NPTEL 
+- ✅ **Generative AI** – Learn4Good
+- ✅ **Programming Essentials in Python** – Cisco Networking Academy 
+- ✅ **Cybersecurity and Privacy** – NPTEL 
+- ✅ **Linux Essentials** – Cisco Networking Academy 
+- ✅ **LeetCode 50-Day & 100-Day Challenge** – LeetCode
 
 ---
 
